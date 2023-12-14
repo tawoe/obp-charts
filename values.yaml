@@ -101,7 +101,7 @@ webui_api_tester_url: "https://api-tester.openbankproject.com"
 webui_header_logo_left_url: "https://static.openbankproject.com/images/OBP_full_web.png"
 write_metrics: true
 JAVA_OPTIONS: "-Drun.mode=production"
-cache_redis_url: something.redis.org
+cache_redis_url: redis.localhost
 cache_redis_port: '6379'
 
 
